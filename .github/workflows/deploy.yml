@@ -13,6 +13,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Clean build folder
+        run: rm -rf build
+
       - name: Build
         run: npm run build
 
