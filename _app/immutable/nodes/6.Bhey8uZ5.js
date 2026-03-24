@@ -1,4 +1,4 @@
-import{a,f as s}from"../chunks/CttPK3hj.js";import"../chunks/5EXp82KN.js";var t=s(`<div class="page svelte-17wjoog"><div class="content svelte-17wjoog"><div class="title svelte-17wjoog">[Rules]</div> 1) Users stay anonymous.
+import{a,f as s}from"../chunks/CttPK3hj.js";import"../chunks/BH64wCD9.js";var t=s(`<div class="page svelte-17wjoog"><div class="content svelte-17wjoog"><div class="title svelte-17wjoog">[Rules]</div> 1) Users stay anonymous.
 
 2) Only upload photos you have the right to share.
 
