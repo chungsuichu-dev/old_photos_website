@@ -10,8 +10,9 @@ const config = {
       		fallback: 'index.html'
     	}),
     	paths: {
-      		base: process.env.NODE_ENV === 'production' ? '' : ''
-    	}
+  			base: process.env.NODE_ENV === 'production' ? '/old_photos_website' : ''
+		}
+
   	},
 	preprocess: vitePreprocess(),
 	vitePlugin: {
